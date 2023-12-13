@@ -1,2 +1,2 @@
 # Chess_clock
-Đồ án đồng hồ đấu cờ
+This is a Proteus file containing the design of a stopwatch used for implementation.
